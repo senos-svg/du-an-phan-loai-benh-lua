@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.streamlit/secrets.toml
+runs/
+outputs/
+eval_outputs/
+data/
+datasets/
+*.cache
+*.log
